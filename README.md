@@ -36,3 +36,17 @@ To set up Bright Beats locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/bright-beats.git
    cd bright-beats
+
+
+   ## Installing Dependencies
+
+To install the required dependencies for Bright Beats, follow these steps:
+
+### Backend Dependencies
+
+1. **Navigate to the root directory of your project** (where the `requirements.txt` file is located).
+   
+2. **Run the following command** to install the backend dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. You're good to go! Enjoy Bright Beats
